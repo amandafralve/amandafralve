@@ -1,4 +1,4 @@
-# Amanda
+# Amanda Freitas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amandafralve-blue?logo=linkedin)](https://www.linkedin.com/in/amanda-fralve/)
 
