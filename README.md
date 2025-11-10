@@ -1,23 +1,27 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2469D2&width=435&lines=Hello!+I'm+Amanda+Freitas.+.+.+" alt="Typing SVG" /></a>
-    
-<table>
+
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <table style="width: auto;">
     <tr>
-        <td>
-            <p> 𖦹 Estudante de Desenvolvimento de Software Multiplataforma na <strong>Fatec Registro</strong></p>
-            <p> 𖦹 Foco dos estudos na área Fullstack, mas também me interesso no desenvolvimento UI/UX e Design (prototipagem, identidade visual e afins.)</p>
-        </td>
-        <td>
-            <a href="https://github.com/amandafralve/github-readme-stats" target="_blank" rel="noopener noreferrer">
-                <img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandafralve&layout=compact&bg_color=00000000"
-                alt="amandafralve - Top Languages"
-                style="display:block; max-width:100%; height:auto;"
-                loading="lazy"
-                />
-            </a>
-        </td>
+      <td>
+        <p>𖦹 Estudante de Desenvolvimento de Software Multiplataforma na <strong>Fatec Registro</strong></p>
+        <p>𖦹 Foco dos estudos na área Fullstack, mas também me interesso no desenvolvimento UI/UX e Design (prototipagem, identidade visual e afins.)</p>
+      </td>
     </tr>
-</table>
+  </table>
+
+  <a href="https://github.com/amandafralve/github-readme-stats" target="_blank" rel="noopener noreferrer" style="align-self: flex-start;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandafralve&layout=compact&bg_color=00000000"
+      alt="amandafralve - Top Languages"
+      style="display:block; max-width:100%; height:auto;"
+      loading="lazy"
+    />
+  </a>
+
+</div>
+
 
 ### 🛠 Linguagens
 <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
