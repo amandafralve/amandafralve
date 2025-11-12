@@ -10,7 +10,7 @@
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandafralve&layout=compact&bg_color=00000000&card_width=500"
           alt="amandafralve - Top Languages"
-          width="500"
+          width="1200"
           loading="lazy"
         />
       </a>
