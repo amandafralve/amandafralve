@@ -2,6 +2,7 @@
 <table>
   <tr>
     <td valign="top">
+      <p>
       <p>𖦹 Estudante de Desenvolvimento de Software Multiplataforma na <strong>Fatec Registro</strong></p>
       <p>𖦹 Foco dos estudos na área Fullstack, mas também me interesso no desenvolvimento UI/UX e Design (prototipagem, identidade visual e afins.)</p>
     </td>
