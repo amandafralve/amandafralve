@@ -4,10 +4,10 @@
 
 <div style="margin-top:-8px;">
   <a href="https://www.linkedin.com/in/amandafralve" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-amandafralve-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - amandafralve" />
+    <img src="https://img.shields.io/badge/LinkedIn-amandafralve-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn - amandafralve" />
   </a>
-  <a href="mailto:amandafral@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-amandafral@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - amandafral@gmail.com" />
+  <a href="mailto:amanda.fralve@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-amanda.fralve@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail - amanda.fralve@gmail.com" />
   </a>
 </div>
 
