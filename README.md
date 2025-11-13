@@ -3,7 +3,7 @@
 </a>
 
 <div style="margin-top:-8px;">
-  <a href="https://www.linkedin.com/in/amandafralve" target="_blank">
+  <a href="https://www.linkedin.com/in/amanda-fralve" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-amandafralve-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn - amandafralve" />
   </a>
   <a href="mailto:amanda.fralve@gmail.com">
