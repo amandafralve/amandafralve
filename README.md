@@ -1,10 +1,25 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2469D2&width=435&lines=Hello!+I'm+Amanda+Freitas.+.+.+" alt="Typing SVG" /></a>
-<table>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2469D2&width=435&lines=Hello!+I'm+Amanda+Freitas.+.+.+" alt="Typing SVG" />
+</a>
+
+<div style="margin-top:-8px;">
+  <a href="https://www.linkedin.com/in/amandafralve" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-amandafralve-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - amandafralve" />
+  </a>
+  <a href="mailto:amandafral@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-amandafral@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - amandafral@gmail.com" />
+  </a>
+</div>
+
+<div style="height:40px;"></div>
+
+<table style="margin-top: 24px">
   <tr>
     <td valign="top">
       <p>
       <p>𖦹 Estudante de Desenvolvimento de Software Multiplataforma na <strong>Fatec Registro</strong></p>
       <p>𖦹 Foco dos estudos na área Fullstack, mas também me interesso no desenvolvimento UI/UX e Design (prototipagem, identidade visual e afins.)</p>
+      <p></p>
     </td>
     <td valign="top">
       <a href="https://github.com/amandafralve/github-readme-stats" target="_blank" rel="noopener noreferrer">
