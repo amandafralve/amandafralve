@@ -56,14 +56,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=amandafralve&show_icons=true&count_private=true&hide_border=true&title_color=3b82f6&icon_color=2469D2&text_color=2469D2&bg_color=00000000"
-    alt="Amanda Fralves github stats" 
-  /> 
-
-  <img width="41%" height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandafralve&layout=compact&hide_border=true&title_color=3b82f6&text_color=2469D2&bg_color=00000000"
-  />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amandafralve&show_icons=true&count_private=true&hide_border=true&title_color=3b82f6&icon_color=2469D2&text_color=2469D2&bg_color=00000000" alt="Amanda Fralves github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandafralve&layout=compact&hide_border=true&title_color=3b82f6&text_color=2469D2&bg_color=00000000" />
 </div>
 
 
