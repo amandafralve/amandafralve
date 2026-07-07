@@ -18,7 +18,7 @@
 <table style="margin-top: 24px">
   <tr>
     <td valign="top">
-      <p>𖦹 <strong>Formação:</strong> Desenvolvimento de Software Multiplataforma — <strong>Fatec Registro</strong> (4º semestre)</p>
+      <p>𖦹 <strong>Formação:</strong> Desenvolvimento de Software Multiplataforma — <strong>Fatec Registro</strong> (6º semestre)</p>
       <p>𖦹 <strong>Formação técnica:</strong> Técnico em Mecatrônica - <strong>IFSP</strong>, 2021</p>
       <p>𖦹 Estudante focada em desenvolvimento <strong>Fullstack</strong>, com grande interesse em <strong>UI/UX</strong>, prototipagem e identidade visual</p>
     </td>
@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 
