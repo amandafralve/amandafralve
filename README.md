@@ -12,7 +12,7 @@
   </a>
 
 </div>
-<hr>
+
 <div style="height:40px;"></div>
 
 <table style="margin-top: 24px">
@@ -26,7 +26,7 @@
 </table>
 
 
-<hr>
+
 
 <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 20px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -47,14 +47,6 @@
 </div>
 <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 12px;">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
-
-<hr>
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amandafralve&show_icons=true&count_private=true&hide_border=true&title_color=3b82f6&icon_color=2469D2&text_color=2469D2&bg_color=00000000" alt="Amanda Fralves github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandafralve&layout=compact&hide_border=true&title_color=3b82f6&text_color=2469D2&bg_color=00000000" />
 </div>
 
 
